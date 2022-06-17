@@ -108,7 +108,6 @@ function save()
     let mesage = " "+ nrCat + " -> "
     saveCat.textContent+=mesage
     countCat.innerText=0
-    countCat=0
 
 }
 save()
