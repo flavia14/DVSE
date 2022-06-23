@@ -1,0 +1,46 @@
+.pic{
+    height: 250px;
+    width: 317px;
+    margin-right: 7px;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-family: Inter, sans-serif;
+    height: 100vh;
+    background-color: #69bde3;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    letter-spacing: -0.05em;
+    text-align: center;
+    justify-items: center !important;
+    justify-content: center;
+}
+h2{
+    color: rgb(16, 13, 13);
+    letter-spacing: -0.05em;
+    
+}
+.small-pic{
+    height: 40px;
+    width: 40px;
+    margin-right: 7px; 
+    padding: 20px 20px;
+    background-color: aqua;
+}
+
+button{
+    justify-content: center;
+    height: 40px;
+    width: 80px; 
+    font-size: large;
+    
+
+}
