@@ -1,0 +1,71 @@
+.article-post
+    {
+        margin-bottom: 20px;
+    }
+        .post-header
+        {
+        height: 45px;
+        display: grid;
+        border: 1px solid #DBDBDB;
+        background-color: white;
+        border-radius: 10px 10px 0px 0px;
+        padding: 0px 15px;
+        align-self: center;
+        display: flex;
+        gap: 10px;
+        }
+    
+ .profile-photo
+{
+ 
+ align-items: center;
+ width: 35px;
+ height: 35px;
+ border-radius: 50%;
+
+ }
+    
+  .username
+ {
+    font-weight: bold;
+    font-size: 18px;
+    padding: center;
+    
+}
+ 
+.location
+{
+   font-weight: small;
+   font-size: 11px;
+   padding: center;
+   
+}
+
+.footer
+{
+border: 1px solid #DBDBDB;
+background-color: white;
+border-radius: 0px 0px 10px 10px;
+}
+.comment{
+    font-size: 16px;
+    padding: center;    
+}
+        
+.photo
+        {
+            height: auto;
+            width: 620px;
+            background-color: white;
+            display: flex;
+            border-left: 1px solid #DBDBDB;
+            border-right: 1px solid #DBDBDB;
+            align-self: center;
+            
+        }
+        svg
+        {
+            width: 28px;
+            height: 28px;
+            cursor: pointer;
+        }
